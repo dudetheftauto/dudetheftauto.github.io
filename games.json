@@ -3,5 +3,45 @@
         "name": "Dude Theft Auto",
         "slug": "dude-theft-auto",
         "image": "/cache/data/image/game/dude-theft-auto/dude-theft-auto-m186x186.webp"
+    },
+    {
+        "name": "Crazy Animal City",
+        "slug": "crazy-animal-city",
+        "image": "/cache/data/image/game/crazy-animal-city/crazy-animal-city-m186x186.webp"
+    },
+    {
+        "name": "Escape Road 2",
+        "slug": "escape-road-2",
+        "image": "/cache/data/image/game/escape-road-2/escape-road-city-2-m186x186.webp"
+    },
+    {
+        "name": "Fury Chase 2",
+        "slug": "fury-chase-2",
+        "image": "/cache/data/image/game/fury-chase-2/fury-chase-2-m186x186.webp"
+    },
+    {
+        "name": "Ragdoll Playground",
+        "slug": "ragdoll-playground",
+        "image": "/cache/data/image/game/ragdoll-playground/ragdoll-playground-m186x186.webp"
+    },
+    {
+        "name": "Cat Chaos Simulator",
+        "slug": "cat-chaos-simulator",
+        "image": "/cache/data/image/game/cat_chaos_simulator-m186x186.webp"
+    },
+    {
+        "name": "Police Simulator",
+        "slug": "police-simulator",
+        "image": "/cache/data/image/game/police-simulator/police-simulator-m186x186.webp"
+    },
+    {
+        "name": "Fall Flat Battle",
+        "slug": "fall-flat-battle",
+        "image": "/cache/data/image/game/fall-flat-battle/fall-flat-battle-m186x186.webp"
+    },
+    {
+        "name": "Crazy Cattle 3D",
+        "slug": "crazy-cattle-3d",
+        "image": "/cache/data/image/game/crazy-cattle-3d/crazy-cattle-3d-m186x186.webp"
     }
 ]
